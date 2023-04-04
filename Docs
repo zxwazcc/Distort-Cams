@@ -1,0 +1,114 @@
+                                                  --// Distort Docs For Dummies AKA Slqv#5209 
+
+                          -----------------------------------------------------------------------------------------------
+
+                                                    ___  _     __           __    ___             
+                                                   / _ \(_)__ / /____  ____/ /_  / _ \___  _______
+                                                  / // / (_-</ __/ _ \/ __/ __/ / // / _ \/ __(_-<
+                                                 /____/_/___/\__/\___/_/  \__/ /____/\___/\__/___/
+
+
+                          -----------------------------------------------------------------------------------------------
+
+
+                                                  -- Camlock Sections --
+
+                                          enable = true -- True / False You Get It
+
+                                          keybind = key.Q -- The Keybind That Enables The CamLock
+
+                                          aiming_part = "Head" -- Options: Head, UpperTorso, HumanoidRootPart, LowerTorso ~ Random Upper, Random Lower --
+
+                                          prediciton = 0.1560 -- Predicts The Player Using Velocity
+
+                                          autopred = false -- Auto Predicts The Amount Of Velocity
+
+                                          smoothness = true -- Smoothness The Camlock
+
+                                          smoothness_value = 0.65 -- Value Of Smoothness
+
+
+                          -----------------------------------------------------------------------------------------------
+
+
+                                                               -- Checks -- 
+
+                                          grabbed_check = false, -- Checks The Player Is Knocked
+
+                                          pickup_check = false, -- Checks If The Player Id Picked Up
+
+                                          wallcheck = false, -- Check If Players Visible
+
+
+                          -----------------------------------------------------------------------------------------------
+
+
+                                                                      -- Resolver -- 
+
+                                          resolver = true, -- Enables The Resolver
+
+                                          resolver_type = "Detect Desync", -- Different Types Of Resolver For Different Types Of Anti Aims [Detect Desync, Normal, Faggot]
+
+                                          Detections = 65,
+
+
+                          -----------------------------------------------------------------------------------------------
+
+
+                                                                   -- Notifications --
+
+                                          Noti = true, -- Enables Notifcation
+
+                                          NotiSec = "Xaxa", -- Types Of Notifcation [Options: "Roblox", "Alki" and "Xaxa"]
+
+
+                          -----------------------------------------------------------------------------------------------
+
+
+                                                                        -- Misc --
+
+                                          AntiAimViewer = true, -- Works On Some Games PS. Hood Customs Doest Work
+
+                                          AimViewer = true,
+
+                                          AimView = {
+                                                    Key = "c", -- User Lower Case Character For It To Register
+
+                                                    BeamColor = Color3.fromRGB(97, 6, 82),
+
+                                                    Transparency = 0.5,
+
+                                                    Material = "ForceField" -- Options: "ForceField", "Neon", "Plastic", "Fabric"
+                                          }
+
+
+                          -----------------------------------------------------------------------------------------------
+
+
+                                                             -- Self --
+
+                                          plrenable = true, -- Enables The PlayerVisuals
+
+                                          plrmat = "ForceField", -- Your Player Character Material
+
+                                          plrcolor = Color3.fromRGB(77, 5, 47), -- Your Player Color
+
+                                          plrbow = false, -- Fucks Up Shit
+
+
+                          -----------------------------------------------------------------------------------------------
+
+
+                                                          -- Skeleton Esp -- 
+
+                                          skelenb = true, -- Enables Skeleton ESP
+
+                                          Color = Color3.fromRGB(255, 0, 0),
+
+
+                          -----------------------------------------------------------------------------------------------
+
+
+
+
+
